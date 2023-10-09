@@ -1,5 +1,8 @@
 ### Hi there 👋
+[Insert boring introduction here]
+I make cool stuff 🙇‍♂️🥇
 
+[![asidqi's 42 stats](https://badge.mediaplus.ma/darkblue/asidqi?UM6P=off)](https://github.com/oakoudad/badge42)
 <!--
 **Ayman-SIDQI/Ayman-SIDQI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
