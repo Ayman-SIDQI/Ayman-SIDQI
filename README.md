@@ -1,6 +1,4 @@
 ### Hi there 👋
-[Insert generic introduction here]
-I make cool stuff 🙇‍♂️🥇
 
 [![asidqi's 42 stats](https://badge.mediaplus.ma/darkblue/asidqi?UM6P=off)](https://github.com/oakoudad/badge42)
 
